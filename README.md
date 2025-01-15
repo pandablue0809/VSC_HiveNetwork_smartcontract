@@ -1,1 +1,0 @@
-# VSC_HiveNetwork_smartcontract
